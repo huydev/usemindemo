@@ -1,7 +1,7 @@
 {
-  "name": "blogapp",
+  "name": "usemindemo",
   "version": "0.0.1",
-  "description": "only start page.",
+  "description": "a simple demo about usemin.",
   "author": "虐猫狂人薛定谔",
   "devDependencies": {
     "grunt": "^0.4.5",
